@@ -1,6 +1,6 @@
 
 
-# Business Case - Acidentes em Rodovias 
+# Business Case - Acidentes em Rodovias (Empowerdata)
 Este repositório documenta o processo de coleta de dados, limpeza, tratamento, além da criação de tabelas no banco de dados e apresentação dos resultados em visualizações interativas.
 
 ## Objetivos 
